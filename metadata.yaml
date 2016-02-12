@@ -1,0 +1,26 @@
+_repo: A-Brief-History-of-the-Internet-The-Bright-Side-The-Dark-Side_250
+creator:
+  authors:
+  - agent_name: Hart, Michael
+    birthdate: 1947
+    deathdate: 2011
+    gutenberg_agent_id: '958'
+    url: http://www.gutenberg.org/2009/agents/958
+  - agent_name: Fuller, Maxwell
+    gutenberg_agent_id: '42312'
+    url: http://www.gutenberg.org/2009/agents/42312
+description: ''
+gutenberg_issued: '1995-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '250'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Internet -- History'
+- !lcc 'TK'
+- !lcsh 'Computer networks -- United States -- History'
+title: "A Brief History of the Internet\r\nThe Bright Side: The Dark Side"
+url: http://www.gutenberg.org/ebooks/250
