@@ -1,5 +1,5 @@
 _repo: A-Brief-History-of-the-Internet-The-Bright-Side-The-Dark-Side_250
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ subjects:
 - !lcsh 'Internet -- History'
 - !lcc 'TK'
 - !lcsh 'Computer networks -- United States -- History'
+- GITenberg
 title: "A Brief History of the Internet\r\nThe Bright Side: The Dark Side"
 url: http://www.gutenberg.org/ebooks/250
